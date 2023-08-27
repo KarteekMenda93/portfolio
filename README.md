@@ -11,8 +11,8 @@ Experience data science professional with extensive knowledge of building data-i
 - **MLOps Platforms: Databricks, Domino, MLflow**
 
 ## Education
-- M.S., Robotics and Autonomous Systems | Arizona State University (_May 2025_)								       		
-- B.Tech., Computer Science & Engineering	| Jawaharlal Nehru Technological University, Kakinada (_April 2015_)	 			        		
+- M.S., Robotics and Autonomous Systems       | Arizona State University (_May 2025_)								       		
+- B.Tech., Computer Science & Engineering	    | Jawaharlal Nehru Technological University, Kakinada (_April 2015_)	 			        		
 
 ## Work Experience
 **Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021 - _July 2023)**
@@ -113,7 +113,7 @@ Organize meetings with different clients from across the world.
 **Advisor (_July 2019 - _March 2023)**
 Help Under Grad Students in making the right choice of entering in IT field.
 - Assist undergraduate students by scheduling 1:1 virtual meetings, in making informed decisions about entering the IT field by discussing various career paths within IT, highlighting required skills, and necessary material, and building a strong portfolio, and explaining industry trends.
-[Road to Data Sceince](https://karteekmenda93-data-science-roadmap-streamlit-app-v31e2r.streamlit.app/)
+[Road Map to Data Sceince](https://karteekmenda93-data-science-roadmap-streamlit-app-v31e2r.streamlit.app/)
 
 
 **Volunteer (_July 2012 - _April 2013)**
