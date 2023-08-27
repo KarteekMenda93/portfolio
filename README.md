@@ -48,6 +48,8 @@ Experience data science professional with extensive knowledge of building data-i
 ## Machine Learning, Deep Learning Blogs
 ### Sentimental Analysis Using BERT
 [Publication](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
+
+
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis tools allow businesses to identify customer sentiment toward products, brands or services in online feedback. **Blogged** about the architecture of **Transfromers** (Attention is all you need) **Encoder and Decoder** Blocks, **BERT : Bidirectional Encoder Representations from Transformers** and detailed how the **BERT** architecture helps in finding the **Sentiments**.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
