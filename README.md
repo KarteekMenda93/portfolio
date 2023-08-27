@@ -51,7 +51,7 @@ Experience data science professional with extensive knowledge of building data-i
 
 
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis tools allow businesses to identify customer sentiment toward products, brands or services in online feedback. **Blogged** about the architecture of **Transfromers** (Attention is all you need) **Encoder and Decoder** Blocks, **BERT : Bidirectional Encoder Representations from Transformers** and detailed how the **BERT** architecture helps in finding the **Sentiments**.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Sentimental Analysis Using BERT](/Blog_Images/Sentimental_Analysis.png)
 
 ### OCR — Optical Character Recognition
 [Publication](https://medium.com/@karteekmenda93/ocr-optical-character-recognition-f4317300fa8f)
