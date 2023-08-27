@@ -55,10 +55,14 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 
 ### OCR — Optical Character Recognition
 [Publication](https://medium.com/@karteekmenda93/ocr-optical-character-recognition-f4317300fa8f)
+
+
 **Optical Character Recognition(OCR)** is the technology for automatic text recognition. We can translate printed, handwritten and scanned documents into a machine readable format. This technology relieves employees of manual entry of data, and reduce human errors. **Blogged** about the document recognition, **NLP**, coupled with **OCR**, finds applications for data retrieval, information extraction, with an example of a sample image. We can extract everything of value for a company(information about consumers, payment data from invoices) from top to bottom in a document. Also, demonstarted the usage of **Google transaltor** to translate the extracted text. Later used **Google text to speech converter** where the text is been converted to the language we specify over there. So, this can serve someone who are visual impaired.
 
 ### A Beginner’s Guide to NLP
 [Publication](https://medium.com/@karteekmenda93/a-beginners-guide-to-nlp-da13fae5e885)
+
+
 In this blog, I detailed some of the **NLP tasks** and built a web aplication using **Streamlit**. The **NLP tasks** are mentioned below
 - **Tokenization** and **Lemmatization** of the text
 - **NER(Named Entity Recognition)** from the text
@@ -68,14 +72,20 @@ In this blog, I detailed some of the **NLP tasks** and built a web aplication us
 
 ### Deployment of Machine Learning Application Made Easy
 [Publication](https://medium.com/@karteekmenda93/deployment-of-machine-learning-application-made-easy-f61ba593c318)
+
+
 **ML application development** is really fun and these apps help data scientists and machine learning engineers to solve business problems. In this blog, I have taken the **Prediction of the Customer Churn** as the objective, and developed a ML model to do it. Later, the model is been pickled and a **web application** is built using the Streamlit. The basic moto of this blog is to show how we can **deploy our ML application** onto the web very easily.
 
 ### Exploratory Data Analysis Tools
 [Publication](https://medium.com/@karteekmenda93/exploratory-data-analysis-tools-83ef538c879f)
+
+
 **Exploratory Data Analysis** is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. It is a good practice to understand the data first and try to gather as many insights from it. **EDA** is all about making sense of data in hand, before getting them dirty with it. In this blog, I tried to explain some of the tools like(**Pandas-Profiling**, **Sweetviz**, **D-Tale**), which helps us in doing **Auto EDA**.
 
 ### The Confusion behind Confusion Matrix
 [Publication](https://medium.com/@karteekmenda93/the-confusion-behind-confusion-matrix-35bab6756137)
+
+
 Often data Sceince professionals gets confused with the **Confusion Matrix**. In this blog, I tried to break down the **Confusion** in the **Confusion Matrix** by explaining the whole matrix with an simple example. Also, explained in details about the metrics like **Accuracy**, **Precision**, **Recall**.
 
 ## Talks, Lectures & Mentorship
@@ -98,6 +108,7 @@ Organize meetings with different clients from across the world.
 Help Under Grad Students in making the right choice of entering in IT field.
 - Assist undergraduate students by scheduling 1:1 virtual meetings, in making informed decisions about entering the IT field by discussing various career paths within IT, highlighting required skills, and necessary material, and building a strong portfolio, and explaining industry trends.
 [Road to Data Sceince](https://karteekmenda93-data-science-roadmap-streamlit-app-v31e2r.streamlit.app/)
+
 
 **Volunteer (_July 2012 - _April 2013)**
 Volunteered with an orphanage where we taught mathematics and science to almost 70 children
