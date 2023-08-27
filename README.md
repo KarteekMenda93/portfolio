@@ -11,8 +11,8 @@ Experience data science professional with extensive knowledge of building data-i
 - **MLOps Platforms: Databricks, Domino, MLflow**
 
 ## Education
-- Master of Science,  Robotics and Autonomous Systems | Arizona State University (_May 2025_)								       		
-- Bachelor of Tech., Computer Science and Engineering | Jawaharlal Nehru Technological University, Kakinada (_April 2015_)	 			        		
+- **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (_May 2025_)**								       		
+- **Bachelor of Technology**, **Computer Science and Engineering**, **Jawaharlal Nehru Technological University (_April 2015_)**	 			        		
 
 ## Work Experience
 **Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021 - _July 2023)**
