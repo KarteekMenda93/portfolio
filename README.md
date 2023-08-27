@@ -58,6 +58,7 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 
 
 **Optical Character Recognition(OCR)** is the technology for automatic text recognition. We can translate printed, handwritten and scanned documents into a machine readable format. This technology relieves employees of manual entry of data, and reduce human errors. **Blogged** about the document recognition, **NLP**, coupled with **OCR**, finds applications for data retrieval, information extraction, with an example of a sample image. We can extract everything of value for a company(information about consumers, payment data from invoices) from top to bottom in a document. Also, demonstarted the usage of **Google transaltor** to translate the extracted text. Later used **Google text to speech converter** where the text is been converted to the language we specify over there. So, this can serve someone who are visual impaired.
+![OCR — Optical Character Recognition](/Blog_Images/OCR.jpg)
 
 ### A Beginner’s Guide to NLP
 [Publication](https://medium.com/@karteekmenda93/a-beginners-guide-to-nlp-da13fae5e885)
@@ -69,24 +70,29 @@ In this blog, I detailed some of the **NLP tasks** and built a web aplication us
 - **Sentimental Analysis**
 - **Text Summarization** (Extract Summarization)
 - **Machine Translation**
+![A Beginner’s Guide to NLP](/Blog_Images/NLp_Tasks.jpg)
 
 ### Deployment of Machine Learning Application Made Easy
 [Publication](https://medium.com/@karteekmenda93/deployment-of-machine-learning-application-made-easy-f61ba593c318)
 
 
 **ML application development** is really fun and these apps help data scientists and machine learning engineers to solve business problems. In this blog, I have taken the **Prediction of the Customer Churn** as the objective, and developed a ML model to do it. Later, the model is been pickled and a **web application** is built using the Streamlit. The basic moto of this blog is to show how we can **deploy our ML application** onto the web very easily.
+![Deployment of Machine Learning Application Made Easy](/Blog_Images/ML_Web_app.jpg)
 
 ### Exploratory Data Analysis Tools
 [Publication](https://medium.com/@karteekmenda93/exploratory-data-analysis-tools-83ef538c879f)
 
 
 **Exploratory Data Analysis** is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. It is a good practice to understand the data first and try to gather as many insights from it. **EDA** is all about making sense of data in hand, before getting them dirty with it. In this blog, I tried to explain some of the tools like(**Pandas-Profiling**, **Sweetviz**, **D-Tale**), which helps us in doing **Auto EDA**.
+![Exploratory Data Analysis Tools](/Blog_Images/EDA.jpg)
 
 ### The Confusion behind Confusion Matrix
 [Publication](https://medium.com/@karteekmenda93/the-confusion-behind-confusion-matrix-35bab6756137)
 
 
 Often data Sceince professionals gets confused with the **Confusion Matrix**. In this blog, I tried to break down the **Confusion** in the **Confusion Matrix** by explaining the whole matrix with an simple example. Also, explained in details about the metrics like **Accuracy**, **Precision**, **Recall**.
+![The Confusion behind Confusion Matrix](/Blog_Images/Confusion_Matrix.jpg)
+
 
 ## Talks, Lectures & Mentorship
 - Guest Lecture: Dimensionality Reduction(PCA) - Machine Learning for Business Analytics, October 2020
