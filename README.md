@@ -12,7 +12,7 @@ Experience data science professional with extensive knowledge of building data-i
 
 ## Education
 - M.S., Robotics and Autonomous Systems | Arizona State University (_May 2025_)								       		
-- B.Tech., Computer Science & Engineering	| JNTU K (_April 2015_)	 			        		
+- B.Tech., Computer Science & Engineering	| Jawaharlal Nehru Technological University, Kakinada (_April 2015_)	 			        		
 
 ## Work Experience
 **Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021 - _July 2023)**
