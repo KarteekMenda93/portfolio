@@ -1,6 +1,6 @@
 # Robotics Grad Student @ASU, Ex -  Data Science Professional
 
-Experience data science professional with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
+Experience machine learning engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
 ## Technical Skills
 - **Programming: C, C++,Python,R**
@@ -15,7 +15,7 @@ Experience data science professional with extensive knowledge of building data-i
 - **Bachelor of Technology**, **Computer Science and Engineering**, **Jawaharlal Nehru Technological University (_April 2015_)**	 			        		
 
 ## Work Experience
-**Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021_ - _July 2023_)**
+**Machine Learning Engineer @ WNS Global Services Pvt LTD (_September 2021_ - _July 2023_)**
 - Suspicious Fraud Identification: Identified potential fraud claims in the Insurance domain, and thereby saved an estimated cost of 15 Million Euros per year
 - Lead end-to-end development of a cutting-edge technical premium tool for Public DO and Financial Institution Policies
 - Delivered CAT modeling to estimate potential losses from catastrophic events like hurricanes and earthquakes
