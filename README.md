@@ -102,7 +102,7 @@ Often data Sceince professionals gets confused with the **Confusion Matrix**. In
 - Professional Mentor: Mentored a team of 27 and made them understand the custom forecasting(time Series) approach, API’s, Text Mining, Code Management
 
 ## Other Activities
-**Researcher (_December 2022_ - present_)**
+**Researcher (_December 2022_ - present)**
 Researching **Self Attention Mechanisms** for transfer learning Transformers which could very well take care of the context for longer sequences of data.
 - Working on Transformers architecture to come up with a framework that can handle the long sequences of data and moreover make a more efficient and less complex(linear) architecture
 
