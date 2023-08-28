@@ -15,7 +15,7 @@ Experience data science professional with extensive knowledge of building data-i
 - **Bachelor of Technology**, **Computer Science and Engineering**, **Jawaharlal Nehru Technological University (_April 2015_)**	 			        		
 
 ## Work Experience
-**Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021 - _July 2023)**
+**Deputy Manager - Analytics @ WNS Global Services Pvt LTD (_September 2021_ - _July 2023_)**
 - Suspicious Fraud Identification: Identified potential fraud claims in the Insurance domain, and thereby saved an estimated cost of 15 Million Euros per year
 - Lead end-to-end development of a cutting-edge technical premium tool for Public DO and Financial Institution Policies
 - Delivered CAT modeling to estimate potential losses from catastrophic events like hurricanes and earthquakes
@@ -24,7 +24,7 @@ Experience data science professional with extensive knowledge of building data-i
 - Collaborated with the Domino data lab team in setting up the platform in the client environment, by testing different hardware and software requirements
 - Multi-Python applications developed in accordance with machine requirements, updates, and production fixes
 
-**Data Scientist @ Collabgenics  (_May 2018 - _September 2021)**
+**Data Scientist @ Collabgenics  (_May 2018_ - _September 2021_)**
 - Implemented a Classification Algorithm to categorize clients into predefined segments. Employed predictive data models to assess forthcoming client behavior
 - Provided solutions by objectively measuring success by forecasting revenue, expenses, and other key financial metrics
 - Extracted 16.2 million contacts data by setting up the framework for crawling the data for 4.5 million registered companies in the UK, from the Companies House website
@@ -35,14 +35,14 @@ Experience data science professional with extensive knowledge of building data-i
 -	Designed and built automated data connections and reports in various data visualization tools
 -	Query the databases, write test validation scripts, and perform system testing
 
-**Network Engineer @ Experis IT (_July 2017 - _April 2018)**
+**Network Engineer @ Experis IT (_July 2017_ - _April 2018_)**
 - Responsible for the design, implementation, and support of core Windows server infrastructure in the organization (Active Directory, DNS, AD FS)
 -	Installed and configured Windows servers working with network protocols and services including Windows Server 2008/12, TCP/IP, DHCP, and DNS
 
-**Associate @ 3I Infotech (_September 2016 - _July 2017)**
+**Associate @ 3I Infotech (_September 2016_ - _July 2017_)**
 - Dealt with all the issues regarding the Windows server and troubleshoot the issues. ADDS Services, DHCP, DNS. Desktop issues troubleshooting
   
-**System Administrator @ Mahendra Jr. College (_June 2015 - _June 2016)**
+**System Administrator @ Mahendra Jr. College (_June 2015_ - _June 2016_)**
 - Dealt with the maintenance of systems, installation of new software, monitoring the network, and verification of peripherals
 
 ## Machine Learning, Deep Learning Blogs
@@ -102,20 +102,20 @@ Often data Sceince professionals gets confused with the **Confusion Matrix**. In
 - Professional Mentor: Mentored a team of 27 and made them understand the custom forecasting(time Series) approach, API’s, Text Mining, Code Management
 
 ## Other Activities
-**Researcher (_December 2022 - present_)**
+**Researcher (_December 2022_ - present_)**
 Researching **Self Attention Mechanisms** for transfer learning Transformers which could very well take care of the context for longer sequences of data.
 - Working on Transformers architecture to come up with a framework that can handle the long sequences of data and moreover make a more efficient and less complex(linear) architecture
 
-**Leader (Chair) (_September 2021 - _July 2023)**
+**Leader (Chair) (_September 2021_ - _July 2023_)**
 Organize meetings with different clients from across the world.
 - As a meeting organizer, I used to schedule and coordinate meetings. Ensuring that all relevant participants know about the meeting, select appropriate dates and times, and arrange necessary resources, such as meeting rooms or virtual conference tools. Furthermore, I send out meeting invitations and reminders, and I will make myself available to address any logistical or scheduling concerns
 
-**Advisor (_July 2019 - _March 2023)**
+**Advisor (_July 2019_ - _March 2023_)**
 Help Under Grad Students in making the right choice of entering in IT field.
 - Assist undergraduate students by scheduling 1:1 virtual meetings, in making informed decisions about entering the IT field by discussing various career paths within IT, highlighting required skills, and necessary material, and building a strong portfolio, and explaining industry trends.
 [Road Map to Data Sceince](https://karteekmenda93-data-science-roadmap-streamlit-app-v31e2r.streamlit.app/)
 
 
-**Volunteer (_July 2012 - _April 2013)**
+**Volunteer (_July 2012_ - _April 2013_)**
 Volunteered with an orphanage where we taught mathematics and science to almost 70 children
 - Tutored children once in every two weeks to impart knowledge of Vedic Mathematics and Science
