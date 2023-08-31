@@ -95,11 +95,11 @@ Often data Sceince professionals gets confused with the **Confusion Matrix**. In
 
 
 ## Talks, Lectures & Mentorship
-- Guest Lecture: Dimensionality Reduction(PCA) - Machine Learning for Business Analytics, October 2020
-- Guest Lecture: Transfromers Architecture - Advanced Deep Learning for Intelligent Data Science, January 2021
-- Road Map to Data Science - Seminar, January 2021
-- Internship Mentor: Mentor the undergraduate engineering students in the field of Data Science
-- Professional Mentor: Mentored a team of 27 and made them understand the custom forecasting(time Series) approach, API’s, Text Mining, Code Management
+- ** Guest Lecture: Dimensionality Reduction(PCA) - Machine Learning for Business Analytics, October 2020 **
+- ** Guest Lecture: Transfromers Architecture - Advanced Deep Learning for Intelligent Data Science, January 2021 **
+- ** Road Map to Data Science - Seminar, January 2021 **
+- ** Internship Mentor **: Mentor the undergraduate engineering students in the field of Data Science
+- ** Professional Mentor **: Mentored a team of 27 and made them understand the custom forecasting(time Series) approach, API’s, Text Mining, Code Management
 
 ## Other Activities
 **Researcher (_December 2022_ - present)**
