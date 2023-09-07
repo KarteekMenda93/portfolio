@@ -48,7 +48,13 @@ Experience machine learning engineer with extensive knowledge of building data-i
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
-- **MLOps Platforms: Databricks, Domino, MLflow**
+
+### MLOps Platforms
+<p float="left">
+    <img src="https://img.shields.io/badge/databricks%20-%23F05033.svg?&style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/domino%20-%23039BE5.svg?&style=for-the-badge&logo=domino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mlflow%20-%23F05033.svg?&style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
 
 ## Education
 - **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (_May 2025_)**								       		
