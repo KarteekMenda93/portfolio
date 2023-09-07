@@ -30,6 +30,7 @@ Experience machine learning engineer with extensive knowledge of building data-i
 <p float="left">
   	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bitbucket%20-%23F05033.svg?&style=for-the-badge&logo=bitbucket&logoColor=blue"/>
 </p>
 
 
