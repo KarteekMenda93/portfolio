@@ -8,7 +8,7 @@ Experience machine learning engineer with extensive knowledge of building data-i
 - 💬 Ask me about Robotics, Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
 - 📫 How to reach me: 
     [<img src="https://img.shields.io/badge/medium%20-%23000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@karteekmenda93) ,
-    [Linkedin](http://www.linkedin.com/in/karteek-menda)
+    [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 
 ## Technical Skills
