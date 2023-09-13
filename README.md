@@ -2,14 +2,14 @@
 
 Experience machine learning engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
-- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers.
-- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
-- 👯 I’m looking to collaborate on Medium, Linkedin
-- 💬 Ask me about Robotics, Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
-- 📫 How to reach me: 
+🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers.
+💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
+👯 I’m looking to collaborate on Medium, Linkedin
+💬 Ask me about Robotics, Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
+📫 How to reach me: 
     [<img src="https://img.shields.io/badge/medium%20-%23000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@karteekmenda93) ,
     [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](http://www.linkedin.com/in/karteek-menda)
-- 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
+📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 
 ## Technical Skills
 ### Programming Languages Known
