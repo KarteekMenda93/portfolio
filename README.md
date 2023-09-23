@@ -1,4 +1,4 @@
-# Robotics Grad Student @ASU, Project Engineer in Dynamic Systems and Control Lab at ASU
+# Robotics GRAD Student @ASU, Project Engineer in Dynamic Systems and Control Lab at ASU
 
 Experience Machine Learning Engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
