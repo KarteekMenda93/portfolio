@@ -58,7 +58,7 @@ Experience Machine Learning Engineer with extensive knowledge of building data-i
 </p>
 
 ## Education
-- **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (_May 2025_)**								       		
+- **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (_July 2024_)**								       		
 - **Bachelor of Technology**, **Computer Science and Engineering**, **Jawaharlal Nehru Technological University (_April 2015_)**	 			        		
 
 ## Work Experience
