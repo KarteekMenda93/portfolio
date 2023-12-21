@@ -1,3 +1,5 @@
+![logo](https://github.com/KarteekMenda93/portfolio/blob/main/banner.png)
+
 # Robotics GRAD Student @ASU, Project Engineer in Dynamic Systems and Control Lab at ASU
 
 Experience Machine Learning Engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
@@ -80,6 +82,21 @@ Experience Machine Learning Engineer with extensive knowledge of building data-i
 - Dealt with the maintenance of systems, installation of new software, monitoring the network, and verification of peripherals
 
 ## Machine Learning, Deep Learning Blogs
+### How does Google Maps predict the ETA with high precision?
+[Publication](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
+
+Every day, **Google Maps** facilitates over **1 billion kilometers** of travel across more than **220 countries** and territories worldwide. When users embark on a journey by car or motorbike and engage with the **navigation** feature, they are swiftly presented with essential details: the **optimal route**, **current traffic** conditions, **estimated travel duration**, and the **projected time of arrival (ETA)**. Despite the apparent simplicity of this user experience, the seamless delivery of such information in a matter of seconds involves a highly complex and sophisticated system working behind the scenes.
+![How does Google Maps predict the ETA with high precision?](Blog_Images/Google_ETA.webp)
+
+
+### Principal Component Analysis
+[Publication](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
+
+
+Principal Component Analysis (PCA) is a statistical technique used for dimensionality reduction in data analysis. It works by transforming high-dimensional data into a new coordinate system, where the most significant information is captured in the first few principal components. By retaining the principal components that contribute the most to the variance in the data, PCA simplifies the dataset while preserving its essential features. This process aids in visualizing and understanding complex data patterns, making it a valuable tool in fields such as machine learning, image processing, and feature selection. Ultimately, PCA enables the extraction of key insights from large datasets by emphasizing the most influential aspects of the original variables.
+![Principal Component Analysis](Blog_Images/pca.png)
+
+
 ### Sentimental Analysis Using BERT
 [Publication](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
 
