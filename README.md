@@ -7,7 +7,7 @@ Experience Machine Learning Engineer with extensive knowledge of building data-i
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Robotics, Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
-- Hvae a look at my [Primary Portfolio](https://karteekmenda93.github.io/Web_Portfolio/)
+- 📫 Have a look at my [Primary Portfolio](https://karteekmenda93.github.io/Web_Portfolio/)
 - 📫 How to reach me: 
     [<img src="https://img.shields.io/badge/medium%20-%23000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@karteekmenda93) ,
     [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](http://www.linkedin.com/in/karteek-menda)
