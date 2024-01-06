@@ -3,11 +3,13 @@
 
 Experience Machine Learning Engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
+Proficiently orchestrating integration of advanced automotive technologies into a Jeep Grand Cherokee, seamlessly incorporating the dSPACE MicroAutoBox Controller, New Eagle Drive by Wire Kit, cutting-edge cameras, Global Positioning System (GPS), high-speed wireless communication systems (5G), and a diverse array of sensors. Demonstrated expertise in creating a cohesive and technologically sophisticated vehicular ecosystem, enhancing overall functionality and performance.
+
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers.
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
 - 👯 I’m looking to collaborate on Medium, Linkedin
 - 💬 Ask me about Robotics, Machine learning, Time Series Forecasting, Deep Learning and NLP tasks
-- 📫 Have a look at my [Primary Portfolio](https://karteekmenda93.github.io/Skillfolio/)
+- 📫 Have a look at my [Digital Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 📫 How to reach me: 
     [<img src="https://img.shields.io/badge/medium%20-%23000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@karteekmenda93) ,
     [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](http://www.linkedin.com/in/karteek-menda)
