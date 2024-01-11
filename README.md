@@ -15,7 +15,7 @@ Proficiently orchestrating integration of advanced automotive technologies into 
     [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](http://www.linkedin.com/in/karteek-menda)
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 
-Please find my Resume [Here](https://drive.google.com/file/d/1lMH8XdyPX7yrzLLHIkow6PxoJdkYfxF_/view?usp=sharing)
+Please find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGCXu4-cABPNJdV3y/view)
 
 
 ## Technical Skills
