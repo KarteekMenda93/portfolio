@@ -1,7 +1,7 @@
 # Robotics GRAD Student @ASU, Project Engineer in Dynamic Systems and Control Lab at ASU
 
 
-Experience Machine Learning Engineer with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
+Experience Data Science Professional with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
 Proficiently orchestrating integration of advanced automotive technologies into a Jeep Grand Cherokee, seamlessly incorporating the dSPACE MicroAutoBox Controller, New Eagle Drive by Wire Kit, cutting-edge cameras, Global Positioning System (GPS), high-speed wireless communication systems (5G), and a diverse array of sensors. Demonstrated expertise in creating a cohesive and technologically sophisticated vehicular ecosystem, enhancing overall functionality and performance.
 
