@@ -3,7 +3,7 @@
 
 Experienced Data Science Professional with extensive knowledge of building data-intensive applications and over- coming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
 
-Proficiently orchestrating integration of advanced automotive technologies into a Jeep Grand Cherokee, seamlessly incorporating the dSPACE MicroAutoBox Controller, New Eagle Drive by Wire Kit, cutting-edge cameras, Global Positioning System (GPS), high-speed wireless communication systems (5G), and a diverse array of sensors. Demonstrated expertise in creating a cohesive and technologically sophisticated vehicular ecosystem, enhancing overall functionality and performance.
+Proficiently orchestratedintegration of advanced automotive technologies into a Jeep Grand Cherokee, seamlessly incorporating the dSPACE MicroAutoBox Controller, New Eagle Drive by Wire Kit, cutting-edge cameras, Global Positioning System (GPS), high-speed wireless communication systems (5G), and a diverse array of sensors. Demonstrated expertise in creating a cohesive and technologically sophisticated vehicular ecosystem, enhancing overall functionality and performance.
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers.
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
@@ -188,7 +188,7 @@ Researching **Self Attention Mechanisms** for transfer learning Transformers whi
 - Working on Transformers architecture to come up with a framework that can handle the long sequences of data and moreover make a more efficient and less complex(linear) architecture
 
 **Leader (Chair) (_September 2021_ - _July 2023_)**
-Organize meetings with different clients from across the world.
+Organized meetings with different clients from across the world.
 - As a meeting organizer, I used to schedule and coordinate meetings. Ensuring that all relevant participants know about the meeting, select appropriate dates and times, and arrange necessary resources, such as meeting rooms or virtual conference tools. Furthermore, I send out meeting invitations and reminders, and I will make myself available to address any logistical or scheduling concerns
 
 **Advisor (_July 2019_ - _March 2023_)**
