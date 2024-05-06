@@ -92,7 +92,7 @@ Please find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGC
 [Publication](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
 
 Robotic systems have revolutionized the warehouse industry by automating tasks such as unpacking, loading, sorting and packing. With robotic manufacturing equipment, warehouses can ensure that these tasks are performed safely and efficiently, increasing efficiency and productivity. Enabling automation in robotic manipulators requires the ability to perceive and understand their environment, as well as the products and services at hand. Perception systems allow robots to receive sensory feedback from sensors, including cameras, depth sensors and tactile sensors. Sensory systems for attachable and connectable robotic manipulators include object recognition, object tracking, grasp planning, error detection, etc.
-![Object Segmentation on ARMBench](Blog_Images/Google_ETA.webp)
+![Object Segmentation on ARMBench](/Blog_Images/segm.png)
 
 
 
@@ -101,7 +101,7 @@ Robotic systems have revolutionized the warehouse industry by automating tasks s
 
 A pivotal challenge in the Additive Manufacturing domain: the prediction of metal additive manufacturing (MAM) trace characteristics and process optimization. While physics-based numerical simulations and semi-empirical regression are currently the go-to methods for forecasting clad/melt pool geometry in metal additive manufacturing, this study introduces a pioneering approach leveraging machine learning techniques for precise prediction of clad and melt pool characteristics.
 
-#![Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](Blog_Images/Google_ETA.webp)
+![Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](Blog_Images/aspect.png)
 
 
 
@@ -109,7 +109,7 @@ A pivotal challenge in the Additive Manufacturing domain: the prediction of meta
 [Publication](https://medium.com/@karteekmenda93/xct-analysis-for-am-799d018e3dba)
 
 XCT, or X-ray computed tomography, analysis is increasingly utilized in additive manufacturing (AM) processes for quality control and assurance. X-ray CT scan produces a three-dimensional (3-D) computer model of the imaged volume of a sample. The contrast between different components is based on how strongly they absorb X-rays, which is typically a function of elemental composition and density. The technique is generally non-destructive and reveals the internal architecture of specimens, including pores, inclusions, and other internal features.
-#![XCT Analysis for Additive Manufacturing](Blog_Images/Google_ETA.webp)
+![XCT Analysis for Additive Manufacturing](Blog_Images/xray.png)
 
 
 ### How does Google Maps predict the ETA with high precision?
