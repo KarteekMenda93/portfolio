@@ -2,10 +2,12 @@ title: Karteek Menda
 logo: /Blog_Images/Image.jpg
 email: karteekmenda@gmail.com
 description: Portolio Website
+site_favicon: favicon.ico
 
 # Social Profiles
 github_username: KarteekMenda93
-linkedin_username: karteek-menda 
+linkedin_username: karteek-menda
+url: https://karteekmenda93.github.io/DigitalPortfolio/
 
 #[Linkedin](https://www.linkedin.com/in/karteek-menda/)
 #- [medium](https://medium.com/@karteekmenda93)
@@ -16,6 +18,7 @@ linkedin_username: karteek-menda
 remote_theme: pages-themes/minimal@v0.2.0    #hacker@v0.2.0 #minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
 #theme: jekyll-theme-minimal  ## for minimal theme
 
 
