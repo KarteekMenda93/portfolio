@@ -104,6 +104,14 @@ A pivotal challenge in the Additive Manufacturing domain: the prediction of meta
 ![Predicting Aspect Ratio and Problematic Features in Additive Manufacturing](Blog_Images/aspect.png)
 
 
+### Porosity Detection in Thermal Melt Pool Images
+[Publication](https://medium.com/@karteekmenda93/porosity-detection-in-thermal-melt-pool-images-e83370acb971)
+
+Porosity detection in thermal melt pool images is a crucial process in the field of additive manufacturing (AM), particularly in techniques like laser powder bed fusion (LPBF) and direct energy deposition (DED). These techniques, collectively known as 3D printing, involve the layer-by-layer construction of components using thermal energy to fuse material powders. Ensuring the quality and integrity of the manufactured parts is essential, and one of the key quality concerns is porosity — voids or gaps within the material that can compromise its mechanical properties.
+
+![Porosity Detection in Thermal Melt Pool Images](Blog_Images/porosity.png)
+
+
 
 ### XCT Analysis for Additive Manufacturing
 [Publication](https://medium.com/@karteekmenda93/xct-analysis-for-am-799d018e3dba)
