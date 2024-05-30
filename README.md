@@ -89,7 +89,7 @@ Please find my Resume [Here](https://drive.google.com/file/d/18zUqpPVzwY_Dq8TiGC
 ## Machine Learning, Deep Learning Blogs
 
 ### Object Segmentation on ARMBench
-[Publication](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
+[Publication](https://medium.com/@karteekmenda93/object-segmentation-on-armbench-31e7366d0af5)
 
 Robotic systems have revolutionized the warehouse industry by automating tasks such as unpacking, loading, sorting and packing. With robotic manufacturing equipment, warehouses can ensure that these tasks are performed safely and efficiently, increasing efficiency and productivity. Enabling automation in robotic manipulators requires the ability to perceive and understand their environment, as well as the products and services at hand. Perception systems allow robots to receive sensory feedback from sensors, including cameras, depth sensors and tactile sensors. Sensory systems for attachable and connectable robotic manipulators include object recognition, object tracking, grasp planning, error detection, etc.
 ![Object Segmentation on ARMBench](/Blog_Images/segm.png)
@@ -97,7 +97,7 @@ Robotic systems have revolutionized the warehouse industry by automating tasks s
 
 
 ### Predicting Aspect Ratio and Problematic Features in Additive Manufacturing
-[Publication](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
+[Publication](https://medium.com/@karteekmenda93/ml-for-predicting-aspect-ratio-and-problematic-features-in-additive-manufacturing-4151931845ff)
 
 A pivotal challenge in the Additive Manufacturing domain: the prediction of metal additive manufacturing (MAM) trace characteristics and process optimization. While physics-based numerical simulations and semi-empirical regression are currently the go-to methods for forecasting clad/melt pool geometry in metal additive manufacturing, this study introduces a pioneering approach leveraging machine learning techniques for precise prediction of clad and melt pool characteristics.
 
